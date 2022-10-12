@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "locale": "fr_FR.cp1252",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "streamlit_app"
+  },
+  "python": {
+    "version": "3.7.12",
+    "package_manager": {
+      "name": "pip",
+      "version": "22.1.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "6f464f7ff6c7de3e07d3b6732d5386f1"
+    },
+    ".git\\HEAD": {
+      "checksum": "cf7dd3ce51958c5f13fece957cc417fb"
+    },
+    ".git\\config": {
+      "checksum": "8d66265aa54479cb53eb22402bc72ba2"
+    },
+    ".git\\description": {
+      "checksum": "a0a7c3fff21f2aea3cfa1d0316dd816c"
+    },
+    ".git\\hooks\\applypatch-msg.sample": {
+      "checksum": "ce562e08d8098926a3862fc6e7905199"
+    },
+    ".git\\hooks\\commit-msg.sample": {
+      "checksum": "579a3c1e12a1e74a98169175fb913012"
+    },
+    ".git\\hooks\\fsmonitor-watchman.sample": {
+      "checksum": "ea587b0fae70333bce92257152996e70"
+    },
+    ".git\\hooks\\post-update.sample": {
+      "checksum": "2b7ea5cee3c49ff53d41e00785eb974c"
+    },
+    ".git\\hooks\\pre-applypatch.sample": {
+      "checksum": "054f9ffb8bfe04a599751cc757226dda"
+    },
+    ".git\\hooks\\pre-commit.sample": {
+      "checksum": "305eadbbcd6f6d2567e033ad12aabbc4"
+    },
+    ".git\\hooks\\pre-merge-commit.sample": {
+      "checksum": "39cb268e2a85d436b9eb6f47614c3cbc"
+    },
+    ".git\\hooks\\pre-push.sample": {
+      "checksum": "2c642152299a94e05ea26eae11993b13"
+    },
+    ".git\\hooks\\pre-rebase.sample": {
+      "checksum": "56e45f2bcbc8226d2b4200f7c46371bf"
+    },
+    ".git\\hooks\\pre-receive.sample": {
+      "checksum": "2ad18ec82c20af7b5926ed9cea6aeedd"
+    },
+    ".git\\hooks\\prepare-commit-msg.sample": {
+      "checksum": "2b5c047bdb474555e1787db32b2d2fc5"
+    },
+    ".git\\hooks\\push-to-checkout.sample": {
+      "checksum": "c7ab00c7784efeadad3ae9b228d4b4db"
+    },
+    ".git\\hooks\\update.sample": {
+      "checksum": "647ae13c682f7827c22f5fc08a03674e"
+    },
+    ".git\\index": {
+      "checksum": "b6939e1859448668e88f2c9757918b89"
+    },
+    ".git\\info\\exclude": {
+      "checksum": "036208b4a1ab4a235d75c181e685e5a3"
+    },
+    ".git\\logs\\HEAD": {
+      "checksum": "1ff602dd497ab358bf0ac670467bb9bc"
+    },
+    ".git\\logs\\refs\\heads\\main": {
+      "checksum": "1ff602dd497ab358bf0ac670467bb9bc"
+    },
+    ".git\\logs\\refs\\remotes\\origin\\HEAD": {
+      "checksum": "1ff602dd497ab358bf0ac670467bb9bc"
+    },
+    ".git\\objects\\pack\\pack-a8466487bf4130f060570ffa5c60eb0af0889912.idx": {
+      "checksum": "f6e64627ae1268f6f923393cf17be1f9"
+    },
+    ".git\\objects\\pack\\pack-a8466487bf4130f060570ffa5c60eb0af0889912.pack": {
+      "checksum": "bedf995a5d8c3d609ac13c8ff1fb5e0f"
+    },
+    ".git\\packed-refs": {
+      "checksum": "ef943bef4a95ae7201d7007ce572b8d7"
+    },
+    ".git\\refs\\heads\\main": {
+      "checksum": "3d515e2d556ce1984284aace4591990d"
+    },
+    ".git\\refs\\remotes\\origin\\HEAD": {
+      "checksum": "98b16e0b650190870f1b40bc8f4aec4e"
+    },
+    ".github\\CODEOWNERS": {
+      "checksum": "abcfb90c1496b083aaa3951094a32c43"
+    },
+    "LICENSE": {
+      "checksum": "d229da563da18fe5d58cd95a6467d584"
+    },
+    "README.md": {
+      "checksum": "d418ee43638581857a21f838df980788"
+    },
+    "streamlit_app.py": {
+      "checksum": "5497003befd0fccafec897c12d41efce"
+    },
+    "uber-raw-data-sep14.csv.gz": {
+      "checksum": "cf91c34ed49283f6a0ffba71b8da8f8e"
+    },
+    "uber_demo.png": {
+      "checksum": "4e121ab565608ec145a9430b807f837a"
+    }
+  }
+}
